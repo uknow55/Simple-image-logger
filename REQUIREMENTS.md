@@ -100,7 +100,7 @@
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone <https://github.com/uknow55/Simple-image-logger.git>
 cd imagelogger
 
 # Install dependencies
